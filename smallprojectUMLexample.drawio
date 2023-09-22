@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T20:15:52.667Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.8.0" etag="pFtGkWKbcQsFSDtvmxYo" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T20:19:38.204Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="DzarmY8_-o99G4xEFxCx" version="21.8.0" type="github">
   <diagram name="Page-1" id="HbQQCyKU93AlBnXiBw8_">
-    <mxGraphModel>
+    <mxGraphModel dx="900" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PlLvQ4Z8GwpxBjIdOp5W-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.029;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=ERoneToMany;endFill=0;strokeColor=default;startArrow=ERone;startFill=0;" edge="1" parent="1" source="PlLvQ4Z8GwpxBjIdOp5W-2" target="PlLvQ4Z8GwpxBjIdOp5W-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlLvQ4Z8GwpxBjIdOp5W-2" value="User" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202" y="171" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PlLvQ4Z8GwpxBjIdOp5W-3" value="username: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PlLvQ4Z8GwpxBjIdOp5W-2">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlLvQ4Z8GwpxBjIdOp5W-4" value="password: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PlLvQ4Z8GwpxBjIdOp5W-2">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlLvQ4Z8GwpxBjIdOp5W-6" value="Note" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="195" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PlLvQ4Z8GwpxBjIdOp5W-7" value="title: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PlLvQ4Z8GwpxBjIdOp5W-6">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlLvQ4Z8GwpxBjIdOp5W-8" value="date: timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PlLvQ4Z8GwpxBjIdOp5W-6">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlLvQ4Z8GwpxBjIdOp5W-9" value="contents: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PlLvQ4Z8GwpxBjIdOp5W-6">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
