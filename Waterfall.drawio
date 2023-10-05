@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T21:47:35.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.3" etag="MYnRjoXLJZTCP957i72m" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T21:56:00.627Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="853VPdefUf_CcpwnVFes" version="22.0.3" type="github">
   <diagram name="Page-1" id="eXRbEMAZMuJkv09kYC5j">
-    <mxGraphModel>
+    <mxGraphModel dx="900" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jASheQRFtr5SufrR0Aei-1" value="1 - Gather&lt;br&gt;Requirements" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jASheQRFtr5SufrR0Aei-3" value="2 - Design" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=-45;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="355" y="310" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jASheQRFtr5SufrR0Aei-5" value="3 - Develop" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=-115;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="355" y="170" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jASheQRFtr5SufrR0Aei-6" value="4 - Test" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=-165;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jASheQRFtr5SufrR0Aei-7" value="5 - Deploy" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=-230;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jASheQRFtr5SufrR0Aei-8" value="6 - &lt;br&gt;&lt;div&gt;Review&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=45;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jASheQRFtr5SufrR0Aei-9" value="&lt;div style=&quot;font-size: 29px;&quot;&gt;Agile Software Development Process&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=29;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
