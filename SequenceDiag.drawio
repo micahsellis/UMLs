@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T22:14:20.360Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="SCmgeID7yZZ4gRw2VI-N" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T22:16:43.466Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="UvRs-KOpGDbsIM9obmm8" version="22.0.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1752" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1300" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -354,6 +354,12 @@
             <mxPoint x="110" y="169.5" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iUsyg86T50dlSugl5ncO-74" value="Time is&lt;br&gt;unavailable" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="476" width="100" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="iUsyg86T50dlSugl5ncO-75" value="Verify &lt;br&gt;Credentials" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="456" y="164" width="100" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
